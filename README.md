@@ -55,3 +55,4 @@ Wifi.removeSSID("wifi-name", (error)=>{
   console.log(error ? 'error: ' + error : 'removed wifi-name');
 });
 ```
+lol
